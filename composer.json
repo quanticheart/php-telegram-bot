@@ -1,0 +1,19 @@
+{
+  "name": "jonnalves/telegram-simple",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Jonn Alves",
+      "email": "dev.quanticheart@gmail.com"
+    }
+  ],
+  "require": {
+    "telegram-bot/api": "^2.3",
+    "vlucas/phpdotenv": "^5.4",
+    "php": "^7.4"
+  }
+}
